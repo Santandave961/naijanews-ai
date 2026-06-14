@@ -1,0 +1,5 @@
+streamlit
+genai
+gtts
+feedparser
+requests
